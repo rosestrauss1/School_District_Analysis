@@ -25,7 +25,7 @@ Replacing the math and reading scores decreases Thomas High School's performance
 
     - Scores by school spending
 
-    The scores by school spending are impacted because
+    The scores by school spending were impacted just in the 630-644 bin for spending per student. The changes were very slight, but indicate that the scores for the     spending per students was slightly lower for that spending range.
 
     - Scores by school size
 
