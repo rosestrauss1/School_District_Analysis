@@ -29,7 +29,8 @@ Replacing the math and reading scores decreases Thomas High School's performance
 
     - Scores by school size
 
-    The score by school size is impacted because 
+    The score by school size was very slightly impacted in the medium sized school bracket, which indicates that because Thomas High School was a medium sized 
+    school the percent overall passing was a bit higher.
 
     - Scores by school type
 
