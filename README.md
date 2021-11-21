@@ -37,4 +37,5 @@ Replacing the math and reading scores decreases Thomas High School's performance
     Because Thomas High School was a charter school, there was a slight impact on the overall percent passing of students, from 90% without the changes to the 9th       grade data to 92% passing with these changes.
 
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+Four changes to the school district analysis that occured due to changing the 9th grade values to NaN was the performance of Thomas High School related to other schools, specifically with the percentage of students passing overall. The scores by school spending, scores by school size, and scores by school type were also all altered by replacing the 9th grade values with NaN's because Thomas High School's overall passing percentage affected the results of the scores in its bin. 
